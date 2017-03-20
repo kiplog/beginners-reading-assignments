@@ -7,7 +7,7 @@ Starting from scratch in the web development industry is going to require a spec
 
 
 ### HTML5 basics
-- [ ] Read through the usage for the new HTML5 elements (https://www.w3schools.com/html/html5_new_elements.asp)
+- [X] Read through the usage for the new HTML5 elements (https://www.w3schools.com/html/html5_new_elements.asp)
 
 - [ ] Learn what you should have in your HTML document: [HTML boilerplate's HTML documentation](https://github.com/h5bp/html5-boilerplate/blob/5.3.0/dist/doc/html.md)
 
