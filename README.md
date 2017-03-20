@@ -4,7 +4,7 @@
 Starting from scratch in the web development industry is going to require a special learning process - you must absorb everything. Reading for an hour a day is a helpful routine to get you up to speed. I’ve broken everything into three aspects - code, process, design. Having overview knowledge in all 3 areas is critical in order to understand what others are talking about when they give you a project. Items with checkboxes are mandatory, others are for diving deeper once you understand the basics.
 
 ## Code
-***
+
 
 ### HTML5 basics
 - [ ] Read through the usage for the new HTML5 elements (https://www.w3schools.com/html/html5_new_elements.asp)
@@ -14,6 +14,7 @@ Starting from scratch in the web development industry is going to require a spec
 A deeper [Dive into HTML5](http://diveintohtml5.info/index.html)
 
 Learn what HTML5 (and CSS3) features you can use now (click on one or two a day) (http://html5please.com/)
+
 
 ### CSS Basics
 - [ ] [MDN's CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
@@ -55,7 +56,6 @@ This one could be read in 2 parts - HTML and CSS. Also it’s a guide - meaning 
 
 ## Design
 
-***
 
 - [ ] Basic Typography
 Understanding simple things like ellipsis and em dashes: [Typography for Developers](https://csswizardry.com/2017/02/typography-for-developers/)
@@ -67,12 +67,10 @@ Here's a good video on type on the Web (http://www.dontfeartheinternet.com/07-we
 [Practical Color Theory
 for People Who Code](https://tallys.github.io/color-theory/)
 
-[Adobe Kuler](https://color.adobe.com/)
-
 
 ## Process
 
-***
+
 
 - [ ] The process of defining and delivering a site (or any user experience project)  - (https://developers.google.com/web/fundamentals/design-and-ui/ux-basics/)
 
@@ -86,7 +84,7 @@ for People Who Code](https://tallys.github.io/color-theory/)
 
 
 ## Additional resources
-***
+
 
 ### Videos
 
